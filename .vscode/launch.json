@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ForoHubApplication<foro-hub>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.aluracursos.foro_hub.ForoHubApplication",
+      "projectName": "foro-hub",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
